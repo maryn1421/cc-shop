@@ -19,7 +19,7 @@ import java.sql.SQLException;
 @WebListener
 public class Initializer implements ServletContextListener {
 
-
+//wqe
     @Override
     public void contextInitialized(ServletContextEvent sce) {
         ProductDao productDataStore = ProductDaoMem.getInstance();
