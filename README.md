@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Codecool shop (sprint 2)
 
 ## Story
@@ -175,7 +175,6 @@ a shopping cart, checkout items and make payments.
 
 ## Hints
 
-<<<<<<< HEAD
 - It's not required to integrate real payment services - you can use fake payment implementations.
 - Test (and use) the DAO implementations via interfaces so that it will be easy to change the implementation behind the interface. JUnit also provides support for this case, i. e. running the same test set against several implementations of the same interface.
 
@@ -206,4 +205,3 @@ To start your project click [this link](https://journey.code.cool/v2/project/tea
 - :exclamation: [Java Dao pattern](https://www.baeldung.com/java-dao-pattern)
 - :exclamation: [Thymeleaf standard dialect](https://www.thymeleaf.org/doc/articles/standarddialect5minutes.html)
 - :open_book: [Thymeleaf introductions](https://www.thymeleaf.org/documentation.html#introductions)
->>>>>>> 6e4845d04d97711cd20696a17b8c792656899d6e
